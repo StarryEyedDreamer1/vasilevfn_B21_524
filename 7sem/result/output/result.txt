@@ -1,0 +1,39 @@
+phrase:      ԳԵՂԱՐԱՆԻՔԴԻԼՈՒՆԸԻՄԿԱՅՔՈՒՄՍԱՍՏԱԾԵՐԸ
+detected:    ԿԵՂԱՐԱՆԻՔԴԻԼՈՒՆԸԻԱԿԱՅՔՈՒԱՍԱՍՏԱԾԵՐԸ
+correct:     92%
+
+has | got | correct
+Գ	Կ	False
+Ե	Ե	True
+Ղ	Ղ	True
+Ա	Ա	True
+Ր	Ր	True
+Ա	Ա	True
+Ն	Ն	True
+Ի	Ի	True
+Ք	Ք	True
+Դ	Դ	True
+Ի	Ի	True
+Լ	Լ	True
+Ո	Ո	True
+Ւ	Ւ	True
+Ն	Ն	True
+Ը	Ը	True
+Ի	Ի	True
+Մ	Ա	False
+Կ	Կ	True
+Ա	Ա	True
+Յ	Յ	True
+Ք	Ք	True
+Ո	Ո	True
+Ւ	Ւ	True
+Մ	Ա	False
+Ս	Ս	True
+Ա	Ա	True
+Ս	Ս	True
+Տ	Տ	True
+Ա	Ա	True
+Ծ	Ծ	True
+Ե	Ե	True
+Ր	Ր	True
+Ը	Ը	True
